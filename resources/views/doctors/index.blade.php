@@ -273,7 +273,8 @@
 
     <aside class="sidebar">
 
-        <div class="logo">Medi<span>care</span></div>
+        <div class="logo">PureCareMedical
+            Center</div>
 
         <h4>MAIN MENU</h4>
 
