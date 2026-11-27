@@ -314,7 +314,6 @@
         </section>
 
         <!-- Dashboard Cards -->
-       
 <!-- Dashboard Cards -->
         <section class="cards">
 
@@ -355,7 +354,6 @@
                     </tr>
                 </thead>
 
-                
                 <tbody>
 
                     @forelse ($recentAppointments as $appointment)
