@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Medicare | Add Doctor</title>
+    <title>PureCare Medical Center | Add Doctor</title>
 
     <style>
         * {
@@ -286,7 +286,7 @@
 
             <h1>Add New Doctor</h1>
 
-            <p>Register a new medical professional in Medicare.</p>
+            <p>Register a new medical professional in PureCare Medical Center.</p>
 
         </section>
 

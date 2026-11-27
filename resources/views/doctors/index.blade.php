@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Medicare | Doctors</title>
+    <title>PureCare Medical Center | Doctors</title>
 
     <style>
         * {
@@ -327,7 +327,7 @@
 
             <h1>Manage Doctors</h1>
 
-            <p>View and manage all registered doctors in Medicare.</p>
+            <p>View and manage all registered doctors in PureCare Medical Center.</p>
 
         </section>
 
