@@ -6,6 +6,11 @@ use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\HasOne;
 use Illuminate\Database\Eloquent\Relations\HasMany;
 
+use App\Models\PatientRecord;
+use App\Models\Appointment;
+use App\Models\Consultation;
+
+
 class Patient extends Model
 {
     protected $fillable = [
