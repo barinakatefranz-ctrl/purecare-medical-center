@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Medicare | Doctors</title>
+    <title>PureCare Medical Center | Doctors</title>
 
     <style>
         * {
@@ -273,7 +273,8 @@
 
     <aside class="sidebar">
 
-        <div class="logo">Medi<span>care</span></div>
+         <div class="logo">PureCareMedical
+            Center</div>
 
         <h4>MAIN MENU</h4>
 
