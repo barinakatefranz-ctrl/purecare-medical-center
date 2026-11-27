@@ -244,7 +244,8 @@
 
     <aside class="sidebar">
 
-        <div class="logo">Medi<span>care</span></div>
+         <div class="logo">PureCareMedical
+            Center</div>
 
         <a href="{{ route('dashboard') }}">Dashboard</a>
         <a href="{{ route('patients.index') }}">Patients</a>
